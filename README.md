@@ -1,18 +1,18 @@
 # 🎓 GIT-LAB-PROGRAM
 
-A centralized repository containing all laboratory programs, assignments, and practical exercises for the **[Insert Department Name, e.g., Department of Computer Science & Engineering]** curriculum.
+A centralized repository containing all laboratory programs, assignments, and practical exercises for the **[Department of Artificial intelligence & Machine Learning]** curriculum.
 
 ---
 
 ## 📌 Overview
-This repository serves as a digital submission and version-controlled archive for my college lab coursework. It includes structured source code, problem statements, documentation, and sample execution outputs for each laboratory session.
+This repository serves as a digital submission and controlled archive for my college lab coursework.
 
 ---
 
 ## 🛠️ Tech Stack & Prerequisites
-* **Primary Language:** [e.g., Python / Java / C++ / C]
-* **Development Environment:** [e.g., VS Code / IntelliJ / Eclipse / GCC Compiler]
-* **Version Control:** Git & GitHub
+* **Python / Java / C++ / C:**
+* **VS Code & Git Bash:**
+* **Git & GitHub:**
 
 ---
 
@@ -62,9 +62,9 @@ cd Lab-01
 ---
 
 ## 👤 Author
-* **Name:** [Your Name Here]
-* **USN / Roll Number:** [Your University ID]
-* **Section / Batch:** [Your Section]
+* **Name:** [NIKHIL SINGH]
+* **USN / Roll Number:** [1DT25CI071]
+* **Section / Batch:** [CSE-AIML-B]
 
 ---
 
